@@ -1,0 +1,12 @@
+package com.lzb.behavior.observer;
+
+/**
+ * @Author : LZB
+ * @Description :
+ */
+public class PoliceObserver implements Observer {
+    @Override
+    public void update(String event) {
+        System.out.println("警察收到消息，罪犯在" + event);
+    }
+}

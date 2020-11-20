@@ -1,12 +1,16 @@
 
 项目背景
+    </br>
     梳理理解一些常见的设计模式。
 
 代码模块
+    </br>
     behavior 行为型模式
+    </br>
     creates 创建型模式
+    </br>
     structure 结构型模式
-
+    </br>
     实现效果在对应的测试用例中，如：
 
     public class HungryTest {
